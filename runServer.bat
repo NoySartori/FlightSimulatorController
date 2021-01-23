@@ -1,1 +1,1 @@
-java -jar ""C:\FlightSimulatorControl\Server.jar""
+java -jar ""C:\FlightSimulatorController\classes\artifacts\Server_jar\Server.jar""

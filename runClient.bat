@@ -1,1 +1,1 @@
- java -jar ""C:\FlightSimulatorControl\Client.jar""
+ java -jar ""C:\FlightSimulatorController\classes\artifacts\Client_jar\Client.jar""
